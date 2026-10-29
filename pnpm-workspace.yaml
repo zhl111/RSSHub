@@ -30,6 +30,7 @@ overrides:
     'header-generator>browserslist': '4.28.9'
     'rss-parser@3.13.0>entities': '^8.1.0'
     'rss-parser@3.13.0>xml2js': '^0.6.2'
+    'sanitize-html>htmlparser2': '9.1.0'
     safe-buffer: 'npm:@nolyfill/safe-buffer@^1'
     safer-buffer: 'npm:@nolyfill/safer-buffer@^1'
     side-channel: 'npm:@nolyfill/side-channel@^1'
